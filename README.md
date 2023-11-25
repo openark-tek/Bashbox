@@ -60,7 +60,8 @@ After the installation is complete, execute
 Perform installation verification
 
 V0.1.0 built-in software package (take Debian as an example.) ( _Please note: some of the packages listed below are limited to Ubuntu and not suitable for Debian, e.g. Debian's desktop system only supports kde, gnome, xfce_ )
- **WPS, QQ, Python & All dependecies packages, KDE, GNOME, Cinnamon, MATE, Xubuntu aka. Xfce, Lubuntu aka. LXQt (GNU/Linux Desktop Family Bucket), FFMepg, Vim, Nano, fontforge, aglfn, 0ad, 3dchess, alex4, alienblaster, zsh, aldo, apache2, nginx, MariaDB (Oracle Cloud, a subsidiary of MySQL, announced that its product is closed source, MariaDB is now your new choice).** 
+ **WPS, QQ, Python & All dependecies packages, KDE, GNOME, Cinnamon, MATE, Xubuntu aka. Xfce, Lubuntu aka. LXQt (GNU/Linux Desktop Family Bucket), FFMepg, Vim, Nano, fontforge, aglfn, 0ad, 3dchess, alex4, alienblaster, zsh, aldo, apache2, nginx, MariaDB (Oracle Cloud, a subsidiary of MySQL, announced that its product is closed source, MariaDB is now your new choice).**
+ 
 For Debian 12, go to [Debian Supported Packages](http://packages.debian.org) to see the list of packages supported for each version.
 We've also included some shells that help with the management system, as well as some interesting things to develop on GNU/Linux, which you can find linux.cn official website of [LinuxCN](http://linux.cn).
 
@@ -80,5 +81,5 @@ No, Bashbox will open its beta version on January 1, 2024, and its development c
 Red Hat, the developer of CentOS, announced in November 2020 that it would suspend support for CentOS, and CentOS 7 will be discontinued on June 30, 2024. On January 1, 2024, we tested CentOS 7 and 8 users. Start a 3-month test project, shut down the CentOS service on April 4th, and migrate to openEuler on April 5th.
 
 ### Disclaimer
-Copyright 2023-2024 OpenArk ALL RIGHTS RESERVED.
+Copyright 2023~2024 OpenArk ALL RIGHTS RESERVED.
 OpenArk is the developer of this product. According to the Copyright Law of the People's Republic of China and the open source rules of GitHub MIT License, this product is licensed to Debian, Arch Linux, CentOS, openEuler users and organizations for use and secondary development. Without the permission of the copyright owner, it is prohibited to use this product for commercial purposes or obtain the privacy of others. Otherwise, our company will not be responsible for any losses caused by improper use by users.
