@@ -55,7 +55,7 @@ After the installation is complete, perform the verification as well
 #### Run the following command on CentOS (by yum):
 `sudo yum -y update`
 
-Again, in the python312-install@centosbyrpm.sh, the core directives are:
+Again, in the python312-install@centosbyyum.sh, the core directives are:
 
 ```
 wget https://python.org/ftp/python/3.12.0/Python-3.12.0.tar.gz
