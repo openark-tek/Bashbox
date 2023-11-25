@@ -80,5 +80,5 @@ No, Bashbox will open its beta version on January 1, 2024, and its development c
 Red Hat, the developer of CentOS, announced in November 2020 that it would suspend support for CentOS, and CentOS 7 will be discontinued on June 30, 2024. On January 1, 2024, we tested CentOS 7 and 8 users. Start a 3-month test project, shut down the CentOS service on April 4th, and migrate to openEuler on April 5th.
 
 ### Disclaimer
-Copyright 2023~2024 OpenArk ALL RIGHTS RESERVED.
+Copyright 2023-2024 OpenArk ALL RIGHTS RESERVED.
 OpenArk is the developer of this product. According to the Copyright Law of the People's Republic of China and the open source rules of GitHub MIT License, this product is licensed to Debian, Arch Linux, CentOS, openEuler users and organizations for use and secondary development. Without the permission of the copyright owner, it is prohibited to use this product for commercial purposes or obtain the privacy of others. Otherwise, our company will not be responsible for any losses caused by improper use by users.
